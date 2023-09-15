@@ -1,12 +1,3 @@
-r# bnn
-## Bayesian Neural Network Inference of Strong Gravitational Lenses
-ovejero conducts hierarchical inference of strongly-lensed systems with Bayesian neural networks
-
-[ovejero](https://github.com/swagnercarena/ovejero/tree/master)
-
-[cobaya](https://github.com/CobayaSampler/cobaya/tree/master)
-
-
 ==========================================================================
 ovejero - Bayesian Neural Network Inference of Strong Gravitational Lenses
 ==========================================================================

@@ -98,6 +98,11 @@ bnn_condaenv.yml
 
 Jupyter
 ------------
-launch kernel at /ovejero/demos/
+launch kernel at /home/username/ovejero/demos/
+
+.. code-block:: bash
+
+	cd /home/username/ovejero/demos/
+	jupyter notebook
 
 

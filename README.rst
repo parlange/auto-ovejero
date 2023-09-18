@@ -94,6 +94,7 @@ bnn_condaenv.yml
 .. code-block:: bash
 
 	conda env create --name bnn --file=bnn_condaenv.yml
+	conda activate bnn
 
 Jupyter
 ------------

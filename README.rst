@@ -89,7 +89,10 @@ If you use ovejero or its datasets for your own research, please cite the ``lens
 
 Anaconda
 ------------
-conda environment (bnn_condaenv.yml)
+bnn_condaenv.yml
+
+.. code-block:: bash
+	conda env create --name bnn --file=bnn_condaenv.yml
 
 Jupyter
 ------------

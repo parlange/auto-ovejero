@@ -98,8 +98,7 @@ bnn_condaenv.yml
 
 Jupyter
 ------------
-launch kernel at /home/username/ovejero/demos/ to avoid saving notebook on other locations
-
+launch kernel at /home/username/ovejero/demos/ to avoid saving duplicate notebooks elsewhere
 .. code-block:: bash
 
 	cd /home/username/ovejero/demos/

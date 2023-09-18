@@ -93,6 +93,6 @@ conda environment (bnn_condaenv.yml)
 
 Jupyter
 ------------
-launch kernel at /ovejero/demos
+launch kernel at /ovejero/demos/
 
 

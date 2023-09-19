@@ -105,4 +105,6 @@ launch kernel at /home/username/ovejero/demos/ to avoid saving duplicate noteboo
 	cd /home/username/ovejero/demos/
 	jupyter notebook
 
-
+extended_training
+------------
+more epochs and samples

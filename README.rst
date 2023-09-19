@@ -108,3 +108,7 @@ launch kernel at /home/username/ovejero/demos/ to avoid saving duplicate noteboo
 extended_training
 ------------
 more epochs and samples
+
+to-do
+------------
+train with custom dataset

@@ -1,5 +1,5 @@
 ==========================================================================
-auto-ovejero - Neural Architecture Search for Bayesian Neural Network Inference of Strong Gravitational Lenses
+auto-ovejero | Neural Architecture Search for Bayesian Neural Network Inference of Strong Gravitational Lenses
 ==========================================================================
 
 .. image:: https://github.com/swagnercarena/ovejero/workflows/CI/badge.svg

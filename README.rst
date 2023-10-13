@@ -66,11 +66,11 @@ Demos
 
 The jupyter notebooks in the demos folder walk you through how to use all the main features of the ovejero package.
 
-* `Generating a Configuration File for Training a Model <https://github.com/swagnercarena/ovejero/blob/master/demos/Generate_Config.ipynb>`_: Learn how to use json function in python to write out a configuration file for model training.
-* `Fitting a Model Using model_trainer <https://github.com/swagnercarena/ovejero/blob/master/demos/Train_Toy_Model.ipynb>`_: Learn how to use model_trainer to fit the types of models used by ovejero.
-* `Testing the Performance of a Model That Has Been Fit <https://github.com/swagnercarena/ovejero/blob/master/demos/Test_Model_Performance.ipynb>`_: Learn how to test the performance of a trained model on the validation set.
-* `Comparing Forward Modeling to a BNN Posterior <https://github.com/swagnercarena/ovejero/blob/master/demos/Forward_Modeling_Demo.ipynb>`_: Learn how to compare the performance of the BNN model to a forward modeling approach.
-* `Hierarchical Inference on a Test Set <https://github.com/swagnercarena/ovejero/blob/master/demos/Hierarchical_Inference_Demo.ipynb>`_: Learn how to run hierarchical inference on a test set using a trained BNN.
+* `Generating a Configuration File for Training a Model <https://github.com/parlange/bnn/blob/main/extended_training/Generate_Config.ipynb>`_: Learn how to use json function in python to write out a configuration file for model training.
+* `Fitting a Model Using model_trainer <https://github.com/parlange/bnn/blob/main/extended_training/Train_Toy_Model.ipynb>`_: Learn how to use model_trainer to fit the types of models used by ovejero.
+* `Testing the Performance of a Model That Has Been Fit <https://github.com/parlange/bnn/blob/main/extended_training/Test_Model_Performance.ipynb>`_: Learn how to test the performance of a trained model on the validation set.
+* `Comparing Forward Modeling to a BNN Posterior <https://github.com/parlange/bnn/blob/main/extended_training/Forward_Modeling_Demo.ipynb>`_: Learn how to compare the performance of the BNN model to a forward modeling approach.
+* `Hierarchical Inference on a Test Set <https://github.com/parlange/bnn/blob/main/extended_training/Hierarchical_Inference_Demo.ipynb>`_: Learn how to run hierarchical inference on a test set using a trained BNN.
 
 Datasets, Chains, Model Weights, and Paper Figures
 --------------------------------------------------

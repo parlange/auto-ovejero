@@ -88,6 +88,7 @@ If you use ovejero or its datasets for your own research, please cite the ``lens
 
 > [!NOTE]  
 > This is an modified version of [ovejero](https://github.com/swagnercarena/ovejero) by Wagner-Carena et al.
+
 > [!IMPORTANT]  
 > The Jupyter notebook have been modified to use absolute paths, instead of relative.
 
@@ -109,15 +110,14 @@ launch kernel at /home/username/ovejero/demos/ to avoid saving duplicate noteboo
 	cd /home/username/ovejero/demos/
 	jupyter notebook
 
-extended_training
-------------
-more epochs and samples
-
 to-do
 ------------
 train with custom dataset
 
-- [x] Extended training
+- [x] Train with more epochs and samples
 - [ ] Generate synthetic dataset
 - [ ] Train with custom dataset
+- [ ] Neural architecture search
+- [ ] AutoML
+- [ ] MLOps
 

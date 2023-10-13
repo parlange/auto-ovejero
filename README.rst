@@ -112,3 +112,8 @@ more epochs and samples
 to-do
 ------------
 train with custom dataset
+
+- [x] Extended training
+- [ ] Generate synthetic dataset
+- [ ] Train with custom dataset
+

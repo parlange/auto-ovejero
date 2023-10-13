@@ -1,4 +1,4 @@
-name: bnn
+name: auto-ovejero
 channels:
   - anaconda
   - conda-forge
@@ -275,4 +275,4 @@ dependencies:
       - werkzeug==2.3.7
       - widgetsnbextension==4.0.9
       - wrapt==1.15.0
-prefix: /home/parlange/anaconda3/envs/bnn
+prefix: /home/parlange/anaconda3/envs/ovejero

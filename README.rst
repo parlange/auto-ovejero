@@ -3,7 +3,7 @@ ovejero - Bayesian Neural Network Inference of Strong Gravitational Lenses
 ==========================================================================
 
 .. NOTE:: 
-   📘 **This is a modified version of ovejero! Source: ** `ovejero`_
+   📘 **This is a modified version of ovejero!** Source: `https://github.com/swagnercarena/ovejero`_
 
 .. _ovejero: https://github.com/swagnercarena/ovejero
 

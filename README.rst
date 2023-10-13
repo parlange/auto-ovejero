@@ -25,10 +25,12 @@ ovejero - Bayesian Neural Network Inference of Strong Gravitational Lenses
 
 
 ⚠️ **This repository (parlange/bnn) is a modified version of ovejero!**
+------------
 
-* `ovejero <https://github.com/swagnercarena/ovejero>`_: Original GitHub repository by Wagner-Carena et al.
+`ovejero - Bayesian Neural Network Inference of Strong Gravitational Lenses <https://github.com/swagnercarena/ovejero>`_: Original GitHub repository by Wagner-Carena et al.
 
 📘 The Jupyter notebooks have been modified to use absolute paths, instead of relative to avoid launching kernel elsewhere.
+
 
 Installation
 ------------
@@ -95,7 +97,7 @@ If you use ovejero or its datasets for your own research, please cite the ``lens
 
 Anaconda
 ------------
-bnn_condaenv.yml
+To install dependencies on a conda environment, download bnn_condaenv.yml and create env from yml file.
 
 .. code-block:: bash
 

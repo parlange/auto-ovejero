@@ -118,9 +118,11 @@ to-do
 train with custom dataset
 
 - [x] Train with more epochs and samples
+- [ ] Run in Google Colab
 - [ ] Generate synthetic dataset
 - [ ] Train with custom dataset
 - [ ] Neural architecture search
+- [ ] Hyperparameter tuning
 - [ ] AutoML
 - [ ] MLOps
 

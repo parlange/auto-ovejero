@@ -1,5 +1,6 @@
 ==========================================================================
 ovejero - Bayesian Neural Network Inference of Strong Gravitational Lenses
+Modified by René Parlange
 ==========================================================================
 
 .. image:: https://github.com/swagnercarena/ovejero/workflows/CI/badge.svg

@@ -24,7 +24,7 @@ auto-ovejero | Neural Architecture Search for Bayesian Neural Network Inference 
 ``ovejero`` conducts hierarchical inference of strongly-lensed systems with Bayesian neural networks
 
 
-⚠️ **This repository (parlange/auto-ovejero) is a modified version of ovejero!**
+⚠️ **This repository (parlange/auto-ovejero) is a modified version of ovejero:**
 ------------
 
 `ovejero - Bayesian Neural Network Inference of Strong Gravitational Lenses <https://github.com/swagnercarena/ovejero>`_: Original GitHub repository by Wagner-Carena et al.

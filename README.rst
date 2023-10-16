@@ -29,8 +29,6 @@ auto-ovejero | Neural Architecture Search for Bayesian Neural Network Inference 
 
 `ovejero - Bayesian Neural Network Inference of Strong Gravitational Lenses <https://github.com/swagnercarena/ovejero>`_: Original GitHub repository by Wagner-Carena et al.
 
-📘 The Jupyter notebooks have been modified to use absolute paths, instead of relative to avoid launching kernel elsewhere.
-
 
 Installation
 ------------
@@ -100,6 +98,7 @@ If you use ovejero or its datasets for your own research, please cite the ``lens
 
 ⚠️ **Modifications to the original repository:** `ovejero <https://github.com/swagnercarena/ovejero>`_: Original GitHub repository by Wagner-Carena et al.
 
+📘 The Jupyter notebooks have been modified to use absolute paths, instead of relative to avoid launching kernel elsewhere.
 
 Anaconda
 ------------
